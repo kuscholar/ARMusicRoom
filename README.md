@@ -7,9 +7,10 @@
 
 ## DEVICE AND REQUIREMENT
 
-The app runs on iOS devices, it has only been tested on iPhone 11 Pro Max with
-iOS version 15.4. Other iPhones with an iOS version 11.0 or higher should be fine.
-But please expect to have layout issues with different screen sizes.
+- The app runs on iOS devices and Android devices, it has been tested on iPhone 11 Pro Max with
+iOS version 15.4. Other iPhones with an iOS version 11.0 or higher should work as well.
+
+- To run the app on an Android device, simply download the ARMusicRoom1.2.apk file and install it on the device and run.
 
 ## INSTALLATION
 
